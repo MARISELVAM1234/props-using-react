@@ -1,0 +1,15 @@
+.footer-part{
+    background-color: blue;
+    height: 150px;
+  }
+.icon-part i{
+    font-size: 40px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+.icon-part{
+    display: flex;
+    /* align-items: center; */
+    /* align-self: center; */
+    justify-content: center;
+}
